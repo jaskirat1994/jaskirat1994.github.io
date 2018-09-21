@@ -135,6 +135,7 @@ a:hover {
 nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     padding: 3% 0px;
     background: url(../images/header.png) no-repeat left !important;
+    width: 100%;
     margin-left: 5%;
     max-width: 100%;
 }
